@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ASTM Evaluator</string>
+    <string name="google_client_id">YOUR_GOOGLE_CLIENT_ID.apps.googleusercontent.com</string>
+    
+    <!-- Strings de la UI -->
+    <string name="settings_title">Configuración del Panel</string>
+    <string name="width_label">Ancho (mm)</string>
+    <string name="height_label">Alto (mm)</string>
+    <string name="save_button">Guardar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="capture_button">CAPTURAR</string>
+    <string name="retake_button">Repetir</string>
+    <string name="confirm_button">Guardar Resultado</string>
+    
+    <!-- Mensajes -->
+    <string name="retrain_notification">Se han recolectado %d fotos para reentrenamiento. ¿Deseas entrenar un nuevo modelo en Colab?</string>
+    <string name="model_updated">Modelo actualizado exitosamente</string>
+    <string name="camera_permission_required">Se requiere permiso de cámara para funcionar</string>
+</resources>
